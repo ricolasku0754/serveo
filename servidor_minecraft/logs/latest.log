@@ -819,3 +819,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Feb2025 17:53:56.472] [Server thread/INFO] [K-Turrets/]: minecraft:arrow
 [20Feb2025 17:53:56.472] [Server thread/INFO] [K-Turrets/]: minecraft:spectral_arrow
 [20Feb2025 17:53:56.472] [Server thread/INFO] [K-Turrets/]: minecraft:tipped_arrow
+[20Feb2025 18:18:46.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niiiii[/127.141.173.198:60185] logged in with entity id 662 at (447.46477809824165, 71.0, 876.91926107433)
+[20Feb2025 18:18:47.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii joined the game
+[20Feb2025 18:18:49.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20Feb2025 18:19:16.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[20Feb2025 18:19:47.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Keep Going]
+[20Feb2025 18:20:38.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has reached the goal [Bone Crusher]
+[20Feb2025 18:23:15.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has completed the challenge [Storm-Chaser]
