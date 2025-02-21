@@ -8585,3 +8585,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Feb2025 01:08:27.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=142, z=133} BlockPos{x=-79, y=143, z=133}
 [21Feb2025 01:12:18.792] [Worker-Main-27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=760, y=-22, z=6107}
 [21Feb2025 01:12:30.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Another Desert Temple!]
+[21Feb2025 01:22:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xlr88 has made the advancement [Not Today, Thank You]
+[21Feb2025 01:24:37.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niiiii lost connection: Disconnected
+[21Feb2025 01:24:37.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii left the game
+[21Feb2025 01:24:50.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Worzed[/127.138.58.229:45433] logged in with entity id 23749 at (428.9622969783375, 75.0, 856.8309320772546)
+[21Feb2025 01:24:50.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Worzed joined the game
+[21Feb2025 01:28:23.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: niiiii[/127.141.173.198:60147] logged in with entity id 25716 at (24.147583989025094, 108.0, 46.9633337748426)
+[21Feb2025 01:28:23.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii joined the game
+[21Feb2025 01:29:34.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xlr88 has made the advancement [Sneak 100]
+[21Feb2025 01:30:22.832] [Server thread/WARN] [tombstone/]: The death event of the player xlr88 was canceled by another mod
+[21Feb2025 01:30:22.841] [Server thread/INFO] [tombstone/]: The player xlr88 has successfully been saved
+[21Feb2025 01:30:55.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[21Feb2025 01:31:13.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[21Feb2025 01:31:15.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xlr88 has reached the goal [Strong or Careful]
+[21Feb2025 01:31:15.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xlr88 was obliterated by a sonically-charged shriek
+[21Feb2025 01:31:17.459] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Feb2025 01:31:17.459] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Feb2025 01:31:28.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Spectator Mode]
+[21Feb2025 01:31:38.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[21Feb2025 01:31:41.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[21Feb2025 01:33:22.728] [Server thread/WARN] [tombstone/]: The death event of the player niiiii was canceled by another mod
+[21Feb2025 01:33:22.743] [Server thread/INFO] [tombstone/]: The player niiiii has successfully been saved
+[21Feb2025 01:34:22.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has reached the goal [Strong or Careful]
+[21Feb2025 01:34:22.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii was slain by Warden
+[21Feb2025 01:34:22.683] [Server thread/WARN] [tombstone/]: The drop event of the player niiiii was canceled by another mod
+[21Feb2025 01:34:25.746] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Feb2025 01:34:25.746] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Feb2025 01:36:04.880] [Server thread/WARN] [tombstone/]: The death event of the player xlr88 was canceled by another mod
+[21Feb2025 01:36:04.885] [Server thread/INFO] [tombstone/]: The player xlr88 has successfully been saved
+[21Feb2025 01:36:13.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xlr88 was slain by Warden
+[21Feb2025 01:36:16.533] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Feb2025 01:36:16.534] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[21Feb2025 01:36:56.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[21Feb2025 01:37:41.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niiiii moved too quickly! -7.874614831970092,0.0,6.27176516591399
+[21Feb2025 01:38:01.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niiiii moved too quickly! 0.7173807767832301,-10.80652611000901,-0.32683633428737835
+[21Feb2025 01:38:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[21Feb2025 01:38:28.737] [Server thread/WARN] [tombstone/]: The death event of the player xlr88 was canceled by another mod
+[21Feb2025 01:38:28.737] [Server thread/INFO] [tombstone/]: The player xlr88 has successfully been saved
+[21Feb2025 01:38:34.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[21Feb2025 01:38:36.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xlr88 fell from a high place
+[21Feb2025 01:38:38.110] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Feb2025 01:38:38.110] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Feb2025 01:39:01.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Spectator Mode]
+[21Feb2025 01:39:15.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[21Feb2025 01:39:38.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Spectator Mode]
+[21Feb2025 01:39:40.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xlr88 moved too quickly! 0.0,-10.707478755435545,0.0
+[21Feb2025 01:39:43.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xlr88 moved too quickly! 0.0,-10.595830459596854,0.0
+[21Feb2025 01:39:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[21Feb2025 01:40:48.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[21Feb2025 01:41:14.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xlr88 has completed the challenge [It Spreads]
+[21Feb2025 01:41:38.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Suit Up]
+[21Feb2025 01:42:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[21Feb2025 01:43:31.829] [Server thread/INFO] [Scaling Health/]: Blight Runner was killed by xlr88
+[21Feb2025 01:45:15.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has completed the challenge [It Spreads]
+[21Feb2025 01:45:27.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['niiiii'/30264, l='ServerLevel[world]', x=-120.49, y=-36.00, z=246.50] died: Zombie Player was slain by Looter
