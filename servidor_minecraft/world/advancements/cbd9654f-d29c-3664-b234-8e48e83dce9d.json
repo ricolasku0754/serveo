@@ -1718,5 +1718,23 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-02-21 02:26:12 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2025-02-21 02:24:13 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-02-21 02:23:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

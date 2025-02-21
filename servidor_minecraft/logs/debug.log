@@ -3680,3 +3680,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Feb2025 02:14:30.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Worzed has made the advancement [Keep Going]
 [21Feb2025 02:16:33.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Feb2025 02:16:33.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 02:21:33.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 02:21:33.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 02:21:41.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[21Feb2025 02:22:51.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[21Feb2025 02:23:18.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[21Feb2025 02:23:22.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=103, z=172} BlockPos{x=-32, y=101, z=172}
+[21Feb2025 02:23:32.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Living Armor]
+[21Feb2025 02:24:13.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Undead Guard]
+[21Feb2025 02:26:12.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has completed the challenge [The Fallen Knight]
+[21Feb2025 02:26:33.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 02:26:33.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 02:27:16.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xlr88 has made the advancement [Sweet Dreams]
+[21Feb2025 02:28:19.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[21Feb2025 02:29:25.273] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[21Feb2025 02:29:25.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Gave 1 [Command Block] to niiiii]
+[21Feb2025 02:29:30.464] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@35a8338f]Trying to start horde event on day 10 with nextDay 10 and time 18000
+[21Feb2025 02:29:30.467] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@121526f7
+[21Feb2025 02:29:30.469] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[21Feb2025 02:29:30.469] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[21Feb2025 02:29:30.527] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[21Feb2025 02:29:30.527] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[21Feb2025 02:30:20.521] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[21Feb2025 02:30:20.521] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[21Feb2025 02:30:38.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Gave 1 [Command Block] to niiiii]
