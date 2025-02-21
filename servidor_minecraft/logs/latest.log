@@ -8582,3 +8582,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Feb2025 01:03:32.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Worzed left the game
 [21Feb2025 01:03:32.731] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [21Feb2025 01:04:45.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xlr88 has made the advancement [Keep Going]
+[21Feb2025 01:08:27.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=142, z=133} BlockPos{x=-79, y=143, z=133}
+[21Feb2025 01:12:18.792] [Worker-Main-27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=760, y=-22, z=6107}
+[21Feb2025 01:12:30.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii has made the advancement [Another Desert Temple!]

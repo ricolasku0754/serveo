@@ -1888,9 +1888,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-02-20 03:30:59 +0000"
+      "minecraft:skeleton": "2025-02-20 03:30:59 +0000",
+      "minecraft:creeper": "2025-02-21 01:11:02 +0000"
     },
     "done": false
+  },
+  "ags_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement_0": "2025-02-21 01:04:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
@@ -1967,6 +1974,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-21 00:57:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-21 01:02:37 +0000"
     },
     "done": true
   },
