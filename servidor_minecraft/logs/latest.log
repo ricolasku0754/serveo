@@ -906,3 +906,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Feb2025 19:21:39.764] [Server thread/INFO] [Scaling Health/]: Blight Walker has died
 [23Feb2025 19:28:18.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
 [23Feb2025 19:30:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[23Feb2025 19:33:45.211] [Server thread/INFO] [Scaling Health/]: Blight Looter has died
+[23Feb2025 19:34:39.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[23Feb2025 19:35:38.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
