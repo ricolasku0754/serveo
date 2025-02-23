@@ -71,7 +71,7 @@ Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_village
 Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
 Loading immunity item list
 Loading immunity item list hordes:immunity_items
-Loaded immunity item minecraft:enchanted_golden_apple with duration 150
+Loaded immunity item minecraft:cooked_porkchop with duration 900
 Loading wearables protection list
 Loading wearables protection list hordes:immune_wearables
 Loaded wearable protection minecraft:leather_boots with modifier 0.95
