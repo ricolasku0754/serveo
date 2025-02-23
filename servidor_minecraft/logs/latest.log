@@ -903,3 +903,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Feb2025 19:02:52.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii joined the game
 [23Feb2025 19:02:53.951] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbd9654f-d29c-3664-b234-8e48e83dce9d was loaded
 [23Feb2025 19:02:54.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[23Feb2025 19:21:39.764] [Server thread/INFO] [Scaling Health/]: Blight Walker has died
+[23Feb2025 19:28:18.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
+[23Feb2025 19:30:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
