@@ -2578,7 +2578,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-02-23 02:42:22 +0000"
+      "minecraft:sunflower_plains": "2025-02-23 02:58:02 +0000",
+      "minecraft:river": "2025-02-23 02:42:22 +0000",
+      "minecraft:plains": "2025-02-23 02:58:32 +0000"
     },
     "done": false
   },
