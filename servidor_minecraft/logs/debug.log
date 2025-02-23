@@ -3264,3 +3264,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Feb2025 19:50:15.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niiiii lost connection: Disconnected
 [23Feb2025 19:50:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii left the game
 [23Feb2025 19:50:15.216] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbd9654f-d29c-3664-b234-8e48e83dce9d was unloaded
+[23Feb2025 19:51:25.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 19:51:25.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 19:56:25.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 19:56:25.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
