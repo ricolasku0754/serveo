@@ -909,3 +909,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [23Feb2025 19:33:45.211] [Server thread/INFO] [Scaling Health/]: Blight Looter has died
 [23Feb2025 19:34:39.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Survival Mode]
 [23Feb2025 19:35:38.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [niiiii: Set own game mode to Creative Mode]
+[23Feb2025 19:48:11.959] [Server thread/INFO] [Scaling Health/]: Blight Looter has died
+[23Feb2025 19:50:15.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: niiiii lost connection: Disconnected
+[23Feb2025 19:50:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: niiiii left the game
+[23Feb2025 19:50:15.216] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of cbd9654f-d29c-3664-b234-8e48e83dce9d was unloaded
